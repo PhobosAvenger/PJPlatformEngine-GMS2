@@ -1,0 +1,31 @@
+Converting GML script: ${project_dir}\scripts\assert\assert.gml
+Converted description /// @description assert(message)/// @function assert
+/// @param message
+
+Converting GML script: ${project_dir}\scripts\iff\iff.gml
+Converted description /// @description iif(condition, branch_a, branch_b)/// @function iif
+/// @param condition
+/// @param  branch_a
+/// @param  branch_b
+
+Converting GML script: ${project_dir}\scripts\handle_event\handle_event.gml
+Converted description /// @description handle_event(specific_key)/// @function handle_event
+/// @param specific_key
+
+Converting GML script: ${project_dir}\scripts\key_check\key_check.gml
+Converted description /// @description key_check(key, event)/// @function key_check
+/// @param key
+/// @param  event
+
+Converting GML script: ${project_dir}\objects\o_dude\Create_0.gml
+Converted description /// @description  Player Variables
+
+Converting GML script: ${project_dir}\objects\o_dude\Step_0.gml
+Converted description /// @description  Player Logic
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Game speed set to 60
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script '__global_object_depths.gml'
