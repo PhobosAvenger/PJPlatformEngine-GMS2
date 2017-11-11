@@ -291,7 +291,7 @@
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Compatibility_Instances_Depth_-1",
+            "name": "Entities",
             "id": "913ec1c6-cb14-4889-a845-e14c9fae19b0",
             "depth": -1,
             "grid_x": 32,
@@ -317,7 +317,7 @@
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Compatibility_Instances_Depth_0",
+            "name": "Level",
             "id": "1ae26d18-ab14-4fc0-a27c-31652b15336a",
             "depth": 0,
             "grid_x": 32,
@@ -620,7 +620,7 @@
         },
         {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Compatibility_Colour",
+            "name": "Background",
             "id": "bebe55a3-ed19-47e4-8372-24a5909824c9",
             "animationFPS": 15,
             "animationSpeedType": "0",

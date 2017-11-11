@@ -205,7 +205,7 @@ if (key_check(K_FIRE, E_PRESS) && !isWallsliding && firing < 6) {
   firing = image_number;
   aiming = aiming_max;
   
-  bullet = instance_create(x + dir*12, y-10, o_bullet);
+  bullet = instance_create_layer(x + dir*12, y-10, "Level", o_bullet);
   bullet.hspeed = 18.0 * dir;
   bullet.image_xscale = dir;
 }
